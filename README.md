@@ -1,6 +1,6 @@
 # Nightgown Reader
 
-Nightgown reader is to read the advertisement data to read sensor data from the ESP32 [Nightgown](https://github.com/LilDataMonster/nightgown) Project.
+Nightgown reader is to read the advertisement data containing the sensor data from the ESP32 [Nightgown](https://github.com/LilDataMonster/nightgown) Project.
 
 ## Dependencies
 
